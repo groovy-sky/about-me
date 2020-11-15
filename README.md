@@ -1,1 +1,1 @@
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=groovy-sk&show_icons=true)
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=groovy-sky&show_icons=true)
