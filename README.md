@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004167?fullName=Jurijs%20Fadejevs">
-<img src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" width="250" height="250">
+<img src="https://mvp.microsoft.com/Content/Images/mvp-banner.png">
 </a>
 
 
