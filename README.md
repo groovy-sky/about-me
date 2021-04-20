@@ -9,5 +9,10 @@
 <img src="https://cdn.enjinx.io/metadata/raw/92dfbbf62180554974fd063a6d24b4e2969a181a/84c84d75ecf4876f70d6c8e8a9906d743c87809a.jpeg" width="250" height="250">
 </a>
 
+<a href="https://mvp.microsoft.com/en-us/PublicProfile/5004167?fullName=Jurijs%20Fadejevs">
+<img src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" width="250" height="250">
+</a>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=groovy-sky&show_icons=true)
 
